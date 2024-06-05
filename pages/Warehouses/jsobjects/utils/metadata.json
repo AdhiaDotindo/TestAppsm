@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "utils",
+    "pageId": "Warehouses",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Warehouses_utils",
+  "deleted": false,
+  "gitSyncId": "665fec51487e694013668050_afc451c1-0dc4-41e6-b89a-139daadf430f"
+}
