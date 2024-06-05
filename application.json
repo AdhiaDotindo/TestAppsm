@@ -2,7 +2,7 @@
   "pages": [
     {
       "id": "Dashboard",
-      "isDefault": false
+      "isDefault": true
     },
     {
       "id": "Products",
@@ -22,7 +22,7 @@
     },
     {
       "id": "Page1",
-      "isDefault": true
+      "isDefault": false
     }
   ],
   "viewMode": false,
