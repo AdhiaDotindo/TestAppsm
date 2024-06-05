@@ -36,7 +36,8 @@
       }
     ],
     "userPermissions": [],
-    "policies": []
+    "policies": [],
+    "isHidden": true
   },
   "deleted": false,
   "gitSyncId": "665fec51487e694013668050_885401a6-de7c-4cae-a01e-bf5c7dbff76e"
